@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+body{
+    background-color: rgb(98, 90, 207);
+}
+
+.boxes{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center ;
+    width: 100vw;
+    padding-top: 25em;
+}
+
+.boxes button{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(0, 0, 0, 0.0);
+    border-color: rgb(10, 5, 77);
+    padding-right: 5em;
+}
+
+.img{
+    width: 150px;
+}

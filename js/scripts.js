@@ -1,5 +1,5 @@
 const btn_a = document.getElementById("btn-a")
-const audio_a = document.getElementById("audio-b")
+const audio_a = document.getElementById("audio-a")
 const btn_b = document.getElementById("btn-b")
 const audio_b = document.getElementById("audio-b")
 const btn_c = document.getElementById("btn-c")
